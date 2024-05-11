@@ -34,6 +34,15 @@ border: 1px solid rgba(0, 0, 0, 0.3);
   .login-btn:hover{
     color: black;
   }
+  .addUser p{
+    margin-top: 15px;
+font-size: small;
+
+  }
+  .addUser button{
+    font-size: small;
+    color: blue;
+  }
 
 
 `
